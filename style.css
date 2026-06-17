@@ -1,0 +1,6 @@
+/* Styling layout block for the navigation container inside the scratch page header */
+.scratch-nav {
+    margin-bottom: 20px;
+    font-size: 1.1rem;
+    letter-spacing: 0.5px;
+}
